@@ -6,11 +6,11 @@ title = "Kross | Hugo Portfolio Template"
 [[menu.main]]
 URL = "contact"
 name = "Contact"
-weight = 3
+weight = 4
 [[menu.main]]
 URL = "portfolio"
 name = "Portfolio"
-weight = 2
+weight = 3
 [[menu.main]]
 URL = "blog"
 name = "Blog"
@@ -18,7 +18,7 @@ weight = 1
 [[menu.main]]
 URL = "about"
 name = "About"
-weight = 4
+weight = 2
 [params]
 address = "125/A, CA Commercial Area, California, USA"
 author = "Johnathan Smith"
