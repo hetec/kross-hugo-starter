@@ -4,10 +4,11 @@ hide_body: true
 fields:
 - type: text
   name: title
-  label: title
+  label: Überschrift
 - type: datetime
   name: date
-  label: date
+  label: Datum
+  description: Das Veröffentlichungsdatum
 - type: text
   name: description
-  label: description
+  label: Beschreibung
