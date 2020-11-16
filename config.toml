@@ -4,6 +4,11 @@ summaryLength = "10"
 theme = "kross-hugo"
 title = "Kross | Hugo Portfolio Template"
 [[menu.main]]
+URL = "contact"
+name = "Contact"
+url = "ddd"
+weight = 2
+[[menu.main]]
 name = "test"
 parent = "Blog"
 weight = 1
