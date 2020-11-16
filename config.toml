@@ -5,7 +5,7 @@ theme = "kross-hugo"
 title = "Kross | Hugo Portfolio Template"
 [[menu.main]]
 URL = "blog"
-name = "Blog1"
+name = "Blog"
 weight = 1
 [[menu.main]]
 URL = "contact"
