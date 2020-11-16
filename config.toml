@@ -8,9 +8,6 @@ name = "test"
 parent = "Blog"
 weight = 1
 [[menu.main]]
-name = "Blog"
-weight = 3
-[[menu.main]]
 URL = "portfolio"
 name = "Portfolio"
 weight = 1
