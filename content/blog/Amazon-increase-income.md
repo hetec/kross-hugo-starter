@@ -3,11 +3,6 @@ title: Amazon increase income 1.5 Million
 date: 2019-05-12T12:14:34.000+06:00
 image: images/blog/post-5.jpg
 description: This is meta description.
-menu:
-  main:
-    URL: blog
-    name: Blog1
-    weight: 1
 
 ---
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore
